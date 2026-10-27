@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Neuro anato M4",
+  "description": "Plataforma de estudio para Neuroanatomía: La Neurona, Tipos de neuronas, Glía, Sinapsis, Neurotransmisores y Potencial de Acción con mapa interactivo, simulador de bioelectricidad, tabla de sistemas y tarjetas de repaso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
